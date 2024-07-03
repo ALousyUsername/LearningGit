@@ -1,4 +1,5 @@
-#This is a test Readme to learn about git
+# This is a test Readme to learn about git
 
+## its ok, we gon be okay
 
-ok ok ok ok ok ok ok
+Get the good, get out the way!
